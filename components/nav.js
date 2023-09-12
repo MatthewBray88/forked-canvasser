@@ -122,6 +122,7 @@ export default function Nav(props) {
                     { props.canvasUrl ? <MenuItem onClick={handleUrl}>Canvas URL</MenuItem> : null }
                     { props.apiKey ? <MenuItem onClick={handleKey}>API Key</MenuItem> : null }
                     <MenuItem onClick={handleRevoke}>Revoke Authorization</MenuItem>
+                    <MenuItem>Version: 0.2.1</MenuItem>
                 </Menu>
                 <Snackbar
                     anchorOrigin={{ vertical: 'top', horizontal: 'left' }}
