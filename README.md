@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/DevOpsBrayOrg/DevOpsBrayProject/_apis/build/status%2FMatthewBray88.forked-canvasser?branchName=main)](https://dev.azure.com/DevOpsBrayOrg/DevOpsBrayProject/_build/latest?definitionId=1&branchName=main)
+
 ## Getting Started
 ### If you are using Node 17+:
 > #### Windows:
